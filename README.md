@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/YourGitHubId/PortlandStateJavaSummer2020.svg?branch=master)](https://travis-ci.org/YourGitHubId/PortlandStateJavaSummer2020)
 
+# Where to find the code for this Pair Programming??
+I collaborated with [Luke Ding](https://github.com/ld2001) and pushed the code into our [collabirated Repository](https://github.com/ld2001/PortlandStatePairProgramming/tree/master/katas). 
+
 # Getting Started with Advanced Programming with Java
 
 This repository helps students in [Advanced Programming with
